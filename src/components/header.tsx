@@ -165,7 +165,7 @@ const Header = () => {
             }`}
             style={{
               minWidth: scrolled ? "340px" : undefined,
-              maxWidth: scrolled ? "50vw" : undefined,
+              maxWidth: scrolled ? "53vw" : undefined,
             }}
           >
             <div className="flex items-center gap-2">
